@@ -19,4 +19,4 @@ Se realizo la limpieza de datos usando el SGBD MySQL
 8.Consultas
 
 ## Se uso
-Funciones como STR_TO_DATE, DATE_FORMAT, CURDATE(), SUBSTRING, SUBSTRING_INDEX, CONCAT, TIMESTAMPDIFF, entre otras, así como también estructuras condicionales como IF o CASE.
+Funciones como STR_TO_DATE, DATE_FORMAT, CURDATE(), SUBSTRING, SUBSTRING_INDEX, CONCAT, TIMESTAMPDIFF, entre otras, así como también estructuras condicionales como IF o CASE y stored procedure.
